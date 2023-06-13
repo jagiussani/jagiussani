@@ -1,16 +1,39 @@
-### Hi there 👋
+### Hi there, I'm Juan Andrés! 👋
 
-<!--
-**jagiussani/jagiussani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a young data analyst with experience in Python, SQL, R Studio, Stata, and Tableau. I'm passionate about exploring and analyzing data to derive meaningful insights. With a strong foundation in programming and data visualization, I enjoy turning complex datasets into actionable information.
+Due to my economics background, I am very passionate about development economics topics. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Python
+- SQL
+- R Studio
+- Stata
+- Tableau
+
+## Projects
+
+- (final project at Ironhack)
+- (song suggestion)
+- (sleep analysis project)
+
+## Interests
+
+- Exploratory Data Analysis
+- Data Visualization
+- Machine Learning
+- Statistical Analysis
+- sustainability
+- economics
+- development economics
+
+## Contact Me
+
+- LinkedIn: (https://www.linkedin.com/in/juan-giussani/)
+- Email: jagiussani@gmail.com
+
+Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to connect!
+
+
